@@ -1,0 +1,17 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.bg-image{
+    background-image: url(../images/pexels-kaique-rocha-125510.jpg);
+    background-position: center;
+    height: 100vh;
+    
+}
+.content-section{
+    margin-top: 15rem!important;
+    background-color: rgba(2, 2, 2, 0.596);
+    border-radius: 3%;
+    padding: 1rem;
+    
+}
